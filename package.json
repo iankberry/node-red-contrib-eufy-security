@@ -22,7 +22,7 @@
     }
   },
   "dependencies": {
-    "eufy-security-client": "1.5.0"
+    "eufy-security-client": "^2.1.2"
   },
   "devDependencies": {
     "jest": "^27.0.6",
